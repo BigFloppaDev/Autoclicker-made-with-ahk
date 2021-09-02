@@ -1,2 +1,4 @@
 # Autoclicker-made-with-ahk
-Some small autoclicker, use shift + f1 to turn it on
+A small autoclicker press shift+f1 to toggle it on/off.
+This program is free and open source.
+Autoclicker can do 16 cps
